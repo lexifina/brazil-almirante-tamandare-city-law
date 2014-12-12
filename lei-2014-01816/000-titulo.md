@@ -1,0 +1,2 @@
+# LEI Nº 1.816 DE 09 DE DEZEMBRO DE 2014 "SÚMULA: "DECLARA DE UTILIDADE PÚBLICA O CENTRO ESPÍRITA BENEFICENTE UNIÃO DO VEGETAL NÙCLEO COROA DIVÌNA"".
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, SANCIONO a seguinte Lei:
