@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA N° 1.824 DE 13 DE FEVEREIRO DE 2015 "Autoriza o Chefe do Poder Executivo Municipal a ceder em comodato área de terreno que especifica, para ASSOCIAÇÃO CULTURAL RELIGIOSA, ILE ASE D'OSUN KESI OLOMIN, e dá outras providências."
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, SANCIONO a seguinte Lei:
