@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA N.º 1.826 DE 27 DE MARÇO DE 2015 "Autoriza o Executivo Municipal celebrar Convênio com a Associação Ambiental de Catadores Reciclar e Limpar, e dá outras providências".
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
