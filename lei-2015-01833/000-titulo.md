@@ -1,0 +1,1 @@
+# LEI N° 1833/2015 "Declara de Utilidade Pública a Associação de pais, mestres e funcionários do cmei castelo dos sonhos" A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
