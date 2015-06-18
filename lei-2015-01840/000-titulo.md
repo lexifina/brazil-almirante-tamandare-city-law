@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA N° 1840 DE 15 DE JUNHO DE 2015 " DECLARA DE UTILIDADE PÚBLICA O CONSELHO DA COMUNIDADE EM EXECUÇÃO PENAL DO FORO REGIONAL DE ALMIRANTE TAMANDARÉ".
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
