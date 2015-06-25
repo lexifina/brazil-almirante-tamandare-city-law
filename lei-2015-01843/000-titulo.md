@@ -1,0 +1,2 @@
+# LEI Nº 1843/2015 "Autoriza o Poder Executivo Municipal a contratar operações Operações de Crédito com a Agência de Fomento do Paraná S.A, e dá outras providências."
+A CÂMARA MUNICIPAL DE ALMIRANTE TAMANDARÉ, Estado do Paraná, aprovou e eu, Prefeito Municipal, no uso das atribuições legais e do disposto no art. 69, inciso III da Lei Orgânica Municipal e disposições da Lei Complementar Federal nº 101, de 04/05/2000, sanciono a seguinte Lei:
