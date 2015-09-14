@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA N° 1.850 DE 10 DE SETEMBRO DE 2015 "Autoriza o Poder Executivo Municipal Efetuar Pagamento de Indenizações ás Instituições que Especifica, e da Outras Providências".
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
