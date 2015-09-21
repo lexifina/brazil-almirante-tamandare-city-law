@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA N° 1.851 DE 18 DE SETEMBRO DE 2015 "Altera dispositivos da Lei Municipal nº 1715/2013, de 29 de julho de 2013, e dá outras providências."
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
