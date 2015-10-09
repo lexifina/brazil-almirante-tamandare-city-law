@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA Nº 1.859 DE 09 DE OUTUBRO DE 2015 "Dispõe sobre as diretrizes para a elaboração da Lei de Diretrizes Orçamentárias do Município de Almirante para o exercício de 20165, e dá outras providencias.
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
