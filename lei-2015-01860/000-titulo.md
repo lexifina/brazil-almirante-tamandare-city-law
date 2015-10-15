@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA Nº 1.860 DE 15 DE OUTUBRO DE 2015 "Altera o artigo 2º, caput e § 1º, da Lei Municipal nº 1240/2007, de 20 de abril de 2007, e dá outras providências".
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
