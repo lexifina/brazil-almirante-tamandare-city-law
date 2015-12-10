@@ -1,0 +1,2 @@
+# LEI ORDINÁRIA Nº 1.866 DE 16 DE NOVEMBRO DE 2015 "Autoriza o Poder Executivo Municipal realizar leilão em hasta pública para a venda de bens patrimoniais móveis do Município declarados como inservíveis, e dá outras providências."
+A Câmara Municipal de Almirante Tamandaré, Estado do Paraná, aprovou e EU, PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, no uso das prerrogativas legais e de acordo com as disposições do artigo 69, IV da Lei Orgânica deste Município, sanciono a seguinte Lei:
