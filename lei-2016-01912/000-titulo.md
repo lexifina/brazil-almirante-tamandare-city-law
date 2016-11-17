@@ -1,0 +1,2 @@
+# LEI Nº 1.912/2016 "Dispõe sobre as diretrizes para a elaboração da Lei de Diretrizes Orçamentárias do Município de Almirante Tamandaré para o exercício de 2017, e dá outras providências."
+O PREFEITO MUNICIPAL DE ALMIRANTE TAMANDARÉ, Estado do Paraná, no uso de suas das atribuições legais, e de acordo com o disposto no Art. 49, III, Art. 69, VI e 101, II, § 2º, da Lei Orgânica do Município, submete á apreciação do Poder Legislativo Municipal o seguinte Projeto de Lei:
