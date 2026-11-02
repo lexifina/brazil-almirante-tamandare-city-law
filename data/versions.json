@@ -1,0 +1,1027 @@
+{
+ "country": "BR-PR-ALMIRANTE-TAMANDARE",
+ "acts": [
+  {
+   "slug": "lei-2017-01922",
+   "short": "Lei 1922/2017",
+   "title": "Lei nº 1.922, de 2 de janeiro de 2017",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/553",
+   "versions": [
+    {
+     "from": "2017-01-04",
+     "units": 2,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2017/553/553_texto_integral.pdf",
+     "sha256": "e5d9e69413c87288c457277cb7ea8a77572b36193544e9dd5e5a02188ce31320"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-01921",
+   "short": "Lei 1921/2017",
+   "title": "Lei nº 1.921, de 2 de janeiro de 2017",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/554",
+   "versions": [
+    {
+     "from": "2017-01-04",
+     "units": 2,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2017/554/554_texto_integral.pdf",
+     "sha256": "0e7f04af72313cfeb8a2806085b3ac7376e47b2e289d0aa0cc5c5cfd2126caa6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01912",
+   "short": "Lei 1912/2016",
+   "title": "Lei nº 1.912, de 9 de novembro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/541",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 58,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/541/541_texto_integral.pdf",
+     "sha256": "68759e4a5be1ecb9fd3c7b4497bb895c3a8cf0cd84d8ef4352369baa4b029bf1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01906",
+   "short": "Lei 1906/2016",
+   "title": "Lei nº 1.906, de 3 de agosto de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/543",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/543/543_texto_integral.pdf",
+     "sha256": "0d35582d95f6b729e5871d9c0e790aea376b0b307302463a750eafbb04ed4386"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01902",
+   "short": "Lei 1902/2016",
+   "title": "Lei nº 1.902, de 20 de julho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/464",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 7,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/464/464_texto_integral.pdf",
+     "sha256": "6106da9d3d9ab53f29a088b2eb22099a64a741484226dbb6076869723ff8be94"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01900",
+   "short": "Lei 1900/2016",
+   "title": "Lei nº 1.900, de 30 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/460",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/460/460_texto_integral.pdf",
+     "sha256": "f4d963fbc31d73298952b3f9075d9363b6473fdf376042c63e39fc08f921f3a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01899",
+   "short": "Lei 1899/2016",
+   "title": "Lei nº 1.899, de 30 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/459",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/459/459_texto_integral.pdf",
+     "sha256": "97c3153520ceb8559561e4a280a2645061723d7e3a61e46bc81bbad5c4b178f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01897",
+   "short": "Lei 1897/2016",
+   "title": "Lei nº 1.897, de 30 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/457",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/457/457_texto_integral.pdf",
+     "sha256": "dbe9e5d3d08432a9d62547aefb62e267ecd11a335316efb2afb21929e14e6fe2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01905",
+   "short": "Lei 1905/2016",
+   "title": "Lei nº 1.905, de 26 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/496",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/496/496_texto_integral.pdf",
+     "sha256": "467eb8d9d234db764f35de7d699b35638b57609a95c0b17463aa1f982ba22d45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01904",
+   "short": "Lei 1904/2016",
+   "title": "Lei nº 1.904, de 26 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/497",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/497/497_texto_integral.pdf",
+     "sha256": "e84648a24db6d2a920bc2d8cef7968cc357beb70ba702edc105dab9d1f1156f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01903",
+   "short": "Lei 1903/2016",
+   "title": "Lei nº 1.903, de 26 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/495",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/495/495_texto_integral.pdf",
+     "sha256": "48c85b7f015f68d04f6e21c9c405cd76f21529ab3b5ccd125f3ed5ec22b4bf96"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01895",
+   "short": "Lei 1895/2016",
+   "title": "Lei nº 1.895, de 22 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/463",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/463/463_texto_integral.pdf",
+     "sha256": "1ca07cec584380c0ed4cd9b940b2a1e6a4911589c016ccb7467367a77195d335"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01893",
+   "short": "Lei 1893/2016",
+   "title": "Lei nº 1.893, de 6 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/454",
+   "versions": [
+    {
+     "from": "2016-06-13",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/454/454_texto_integral.pdf",
+     "sha256": "a1a3cbe14bf3bf4fcb00e8f6c5b48be8e7ddb5c7acc918182406238bcca81c38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01892",
+   "short": "Lei 1892/2016",
+   "title": "Lei nº 1.892, de 6 de junho de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/453",
+   "versions": [
+    {
+     "from": "2016-06-13",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/453/453_texto_integral.pdf",
+     "sha256": "d5159bb265ae45ac6e8b8bbfbc25d6c1e8109dd63eb3ca1c3cad5fde449deef0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01891",
+   "short": "Lei 1891/2016",
+   "title": "Lei nº 1.891, de 12 de maio de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/448",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/448/448_texto_integral.pdf",
+     "sha256": "7eb18942337b9600b8438244d66da6d0edb05376a1c01a61680556cf7b71499b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01890",
+   "short": "Lei 1890/2016",
+   "title": "Lei nº 1.890, de 5 de maio de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/447",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/447/447_texto_integral.pdf",
+     "sha256": "cd2adf532b92a3725c50adfe3be24742b6fc6125e25b62d2b315fb660a35fea9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01889",
+   "short": "Lei 1889/2016",
+   "title": "Lei nº 1.889, de 13 de abril de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/446",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/446/446_texto_integral.pdf",
+     "sha256": "1a0883787e6493ed845a14723d2fb8762c277d9b8c3778293f6e40ea7ef90e7b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01888",
+   "short": "Lei 1888/2016",
+   "title": "Lei nº 1.888, de 30 de março de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/445",
+   "versions": [
+    {
+     "from": "2016-05-02",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/445/445_texto_integral.pdf",
+     "sha256": "af1b243c7b49d3e66795b1008c219a0086c535ca5ac6e224b9f2efa449873cf7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01887",
+   "short": "Lei 1887/2016",
+   "title": "Lei nº 1.887, de 30 de março de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/422",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/422/422_texto_integral.pdf",
+     "sha256": "804a7e51fdd399a7d620c0d6efc652528ad63f8eae6feff9732feae16d46819b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01886",
+   "short": "Lei 1886/2016",
+   "title": "Lei nº 1.886, de 30 de março de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/423",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/423/423_texto_integral.pdf",
+     "sha256": "c980036cc170da1ca1de7469962164b8513d09be40328be8ddad31b80ec10f5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01885",
+   "short": "Lei 1885/2016",
+   "title": "Lei nº 1.885, de 18 de março de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/404",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/404/404_texto_integral.pdf",
+     "sha256": "e25eb528d3be59282f26725a446f05553851a3ca0ce7ed39653fd320bccb419d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01884",
+   "short": "Lei 1884/2016",
+   "title": "Lei nº 1.884, de 18 de março de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/402",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/402/402_texto_integral.pdf",
+     "sha256": "add6db9889a83f8cb2341f6278213a5e203c5b86b4be36328472a7945b28dfc6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01882",
+   "short": "Lei 1882/2016",
+   "title": "Lei nº 1.882, de 20 de fevereiro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/400",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/400/400_texto_integral.pdf",
+     "sha256": "baf7e6c2e1091b25af11fbb0e905bd5adcccf7548de732eab9b4a7d33f9e625b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01881",
+   "short": "Lei 1881/2016",
+   "title": "Lei nº 1.881, de 20 de fevereiro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/398",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/398/398_texto_integral.pdf",
+     "sha256": "2ede6bf5db08de84a3f4b3a2a2be2a5db74fb0aa41e2f7334998e5cc7dfc70f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01879",
+   "short": "Lei 1879/2016",
+   "title": "Lei nº 1.879, de 20 de janeiro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/387",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/387/387_texto_integral.pdf",
+     "sha256": "6da08499c404a65bfe8b8b80d6b4b797add39818a1a49b5ba3a666660cf6b136"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01878",
+   "short": "Lei 1878/2016",
+   "title": "Lei nº 1.878, de 20 de janeiro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/333",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/333/333_texto_integral.pdf",
+     "sha256": "3815187f0e356220cb733f4cb7f2f56f7eecf44978ea2097cfd1524868b0ecc1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01877",
+   "short": "Lei 1877/2016",
+   "title": "Lei nº 1.877, de 20 de janeiro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/408",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/408/408_texto_integral.pdf",
+     "sha256": "0afe4b9b02e5caed24d02c2673c24374bac408e04990a288a6265d3aaf0aeb6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-01876",
+   "short": "Lei 1876/2016",
+   "title": "Lei nº 1.876, de 20 de janeiro de 2016",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/396",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2016/396/396_texto_integral.pdf",
+     "sha256": "9195795bfa9e3fe9812fc0a646108d5855afdab0634ce3bcda5d47339b0a8395"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01874",
+   "short": "Lei 1874/2015",
+   "title": "Lei nº 1.874, de 23 de dezembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/318",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/318/318_texto_integral.pdf",
+     "sha256": "81047ad956ec7bd100be04fd4c4c9995a0af88cdfd393f19e2dc254fb3ba1d8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01873",
+   "short": "Lei 1873/2015",
+   "title": "Lei nº 1.873, de 23 de dezembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/317",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/317/317_texto_integral.pdf",
+     "sha256": "024bfd10c134e103e0ee8f53ac1db8b8661c53ac40c708a179253873801100de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01872",
+   "short": "Lei 1872/2015",
+   "title": "Lei nº 1.872, de 17 de dezembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/235",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/235/235_texto_integral.pdf",
+     "sha256": "0827bebeaa3bc5a714e57a4cfca93b22f6f124820c799a26ee21a831935de2f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01869",
+   "short": "Lei 1869/2015",
+   "title": "Lei nº 1.869, de 14 de dezembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/233",
+   "versions": [
+    {
+     "from": "2015-12-14",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/233/233_texto_integral.pdf",
+     "sha256": "0d4f531d6cbb109ea291890d6a43465b06a0ddfdc0c4aaf4b12733251c947ba6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01866",
+   "short": "Lei 1866/2015",
+   "title": "Lei nº 1.866, de 10 de dezembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/243",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/243/243_texto_integral.pdf",
+     "sha256": "5bd666294298b930b007bbb06f779accb337b28049360e40289af63b080080ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01870",
+   "short": "Lei 1870/2015",
+   "title": "Lei nº 1.870, de 2 de dezembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/234",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/234/234_texto_integral.pdf",
+     "sha256": "143185e3c6019f2baebe2caebc2aa346f3138d466888d09581af4ff028daf336"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01867",
+   "short": "Lei 1867/2015",
+   "title": "Lei nº 1.867, de 24 de novembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/252",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/252/252_texto_integral.pdf",
+     "sha256": "ed191f69fc5d8bb9050b02c14da76b94059afc24b393539d43879641800f0a50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01868",
+   "short": "Lei 1868/2015",
+   "title": "Lei nº 1.868, de 16 de novembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/390",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 7,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/390/390_texto_integral.pdf",
+     "sha256": "b6282a35a89bc3313319c12d05254d38bd9e7bf07ff8bc2fedbb71efa54db4a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01864",
+   "short": "Lei 1864/2015",
+   "title": "Lei nº 1.864, de 9 de novembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/253",
+   "versions": [
+    {
+     "from": "2015-11-09",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/253/253_texto_integral.pdf",
+     "sha256": "3d6bff15c54de816f492ff84062f8ee1e00bc4a9e6ae40755cd3a55d0c1a351b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01865",
+   "short": "Lei 1865/2015",
+   "title": "Lei nº 1.865, de 5 de novembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/355",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/355/355_texto_integral.pdf",
+     "sha256": "332256553da75600626419797a1fafd31f043ec8549c0c53334b2f496180b0da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01861",
+   "short": "Lei 1861/2015",
+   "title": "Lei nº 1.861, de 30 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/250",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/250/250_texto_integral.pdf",
+     "sha256": "318b562c095c85ece03ba7ce471bf3260c5e632b1b08cbba603289d86b294fee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01862",
+   "short": "Lei 1862/2015",
+   "title": "Lei nº 1.862, de 26 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/227",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 20,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/227/227_texto_integral.pdf",
+     "sha256": "3d5fe7cdc39656c1cd54495d5f5e9b2b9e51dbc2d00ac0b881a6ca9f9213b56e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01860",
+   "short": "Lei 1860/2015",
+   "title": "Lei nº 1.860, de 15 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/232",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/232/232_texto_integral.pdf",
+     "sha256": "d14ac14a069535eb0ef4fa9c072719a922de3667da3b177f194a13c2018f0990"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01857",
+   "short": "Lei 1857/2015",
+   "title": "Lei nº 1.857, de 13 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/248",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/248/248_texto_integral.pdf",
+     "sha256": "79cae32c65165f1ac1aa3d86c29fdc919645822307dcd9c0485aa11570a9a784"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01856",
+   "short": "Lei 1856/2015",
+   "title": "Lei nº 1.856, de 13 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/249",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/249/249_texto_integral.pdf",
+     "sha256": "388a15aab1b993ce6945639f885be8c97bcdac682e4ae1ef768049d41a9b5e70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01855",
+   "short": "Lei 1855/2015",
+   "title": "Lei nº 1.855, de 13 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/246",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/246/246_texto_integral.pdf",
+     "sha256": "6af1fbb8701bd89c9da924c2d05ae599aa2766849d8174791905f59cc51281c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01859",
+   "short": "Lei 1859/2015",
+   "title": "Lei nº 1.859, de 9 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/226",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 58,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/226/226_texto_integral.pdf",
+     "sha256": "a80ab8a1d122295cadfd52dff87cd78b8d12b32782969d8cf74ed065e8a15a78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01858",
+   "short": "Lei 1858/2015",
+   "title": "Lei nº 1.858, de 9 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/374",
+   "versions": [
+    {
+     "from": "2015-10-16",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/374/374_texto_integral.pdf",
+     "sha256": "564590216d3a7339756a49ea606f5baf7834ee3edceff4222f1ff2eeecd69435"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01854",
+   "short": "Lei 1854/2015",
+   "title": "Lei nº 1.854, de 8 de outubro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/247",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/247/247_texto_integral.pdf",
+     "sha256": "cfb78d9093a125779dd3b2780c2062d4798ae1e99a260c0d1baedbc7270c14c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01852",
+   "short": "Lei 1852/2015",
+   "title": "Lei nº 1.852, de 18 de setembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/185",
+   "versions": [
+    {
+     "from": "2015-09-21",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/185/185_texto_integral.pdf",
+     "sha256": "ce4ebeffdd5de0835a56872508ce961422528a7a336068bcd4f90d91e781f01d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01851",
+   "short": "Lei 1851/2015",
+   "title": "Lei nº 1.851, de 18 de setembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/184",
+   "versions": [
+    {
+     "from": "2015-09-21",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/184/184_texto_integral.pdf",
+     "sha256": "958d84d87a06a593e7260b827d5a6528b2bd54d5d8e98f45b28242bc621699a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01850",
+   "short": "Lei 1850/2015",
+   "title": "Lei nº 1.850, de 10 de setembro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/146",
+   "versions": [
+    {
+     "from": "2015-09-14",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/146/146_texto_integral.pdf",
+     "sha256": "8ce9f331fbdd984d49de593b423432383ed865c61d788046a37e8e90cc290757"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01847",
+   "short": "Lei 1847/2015",
+   "title": "Lei nº 1.847, de 24 de agosto de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/139",
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/139/139_texto_integral.pdf",
+     "sha256": "9b9bbe79a9b8cb4f9f0bbbe9875e52c5177d1d2766f75c57aab62ad04408fd59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01846",
+   "short": "Lei 1846/2015",
+   "title": "Lei nº 1.846, de 24 de agosto de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/140",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/140/140_texto_integral.pdf",
+     "sha256": "f00867b1ec40d5e6a9e61964f7c36922b7c83086ab9d79845c71cb88e4b1633e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01845",
+   "short": "Lei 1845/2015",
+   "title": "Lei nº 1.845, de 14 de agosto de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/183",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 33,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/183/183_texto_integral.pdf",
+     "sha256": "2f77ce4b3d67b76218baf8b479fd197379572bcbebf1a91c4d35a2755b0956fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01849",
+   "short": "Lei 1849/2015",
+   "title": "Lei nº 1.849, de 11 de agosto de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/244",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/244/244_texto_integral.pdf",
+     "sha256": "8aac6bffc23b8357d612d1fc491af647fb164e29da98219777d019fa497edba2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01844",
+   "short": "Lei 1844/2015",
+   "title": "Lei nº 1.844, de 26 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/56",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 9,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/56/56_texto_integral.pdf",
+     "sha256": "3fc4f12e92e55890055f20bd0c6e4d8224864905f3277f87a6c211aeb6ee5af0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01843",
+   "short": "Lei 1843/2015",
+   "title": "Lei nº 1.843, de 23 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/31",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 10,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/31/31_texto_integral.pdf",
+     "sha256": "75fa002ed8159bca349b7df51574957c7ac7eba32eeced50f07078581de8d474"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01842",
+   "short": "Lei 1842/2015",
+   "title": "Lei nº 1.842, de 23 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/32",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 10,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/32/32_texto_integral.pdf",
+     "sha256": "d9175dcbe2b12870874c1cbd6aebab7cb24b843f77d858e593c6d9d3a8e1320c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01841",
+   "short": "Lei 1841/2015",
+   "title": "Lei nº 1.841, de 15 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/57",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/57/57_texto_integral.pdf",
+     "sha256": "05dfcbaa90ed282fdb49479ef7fae8da47c0a3f60166d9709f3e473d42986717"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01840",
+   "short": "Lei 1840/2015",
+   "title": "Lei nº 1.840, de 15 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/30",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/30/30_texto_integral.pdf",
+     "sha256": "105eed49a2592ea5fbe42d768bc916264ac389978d81e1ecc27ab20966de79b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01839",
+   "short": "Lei 1839/2015",
+   "title": "Lei nº 1.839, de 8 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/26",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/26/26_texto_integral.pdf",
+     "sha256": "b255789d9ad120aa8db7cd10dc75f2df14742cc2c11708061af8782282f48f82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01838",
+   "short": "Lei 1838/2015",
+   "title": "Lei nº 1.838, de 8 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/20",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/20/20_texto_integral.pdf",
+     "sha256": "933fb6740bc0ae4e9211a2a3f17e58396f9f1cc9e7e78a9fe94b278f54d38d56"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01837",
+   "short": "Lei 1837/2015",
+   "title": "Lei nº 1.837, de 1 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/25",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/25/25_texto_integral.pdf",
+     "sha256": "cf54b5db50fc95950a6ecbfa7c4251bf3e2f479b995560342955ed6f057cdd97"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01835",
+   "short": "Lei 1835/2015",
+   "title": "Lei nº 1.835, de 1 de junho de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/29",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/29/29_texto_integral.pdf",
+     "sha256": "65f5b169b1cfd56dc536fafe39ffe7e87314845bfb1e1dc2742040ad39f98007"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01834",
+   "short": "Lei 1834/2015",
+   "title": "Lei nº 1.834, de 6 de maio de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/27",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/27/27_texto_integral.pdf",
+     "sha256": "e3f6183ac092bcb2f5775d13f50912c9e9a45b53862c239be604ff4db2a0c0b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01833",
+   "short": "Lei 1833/2015",
+   "title": "Lei nº 1.833, de 9 de abril de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/21",
+   "versions": [
+    {
+     "from": "2015-05-07",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/21/21_texto_integral.pdf",
+     "sha256": "9103a58e8839262342fd5efd52494f908f3f9f6de80f5015a3b21196431dc493"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01832",
+   "short": "Lei 1832/2015",
+   "title": "Lei nº 1.832, de 9 de abril de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/24",
+   "versions": [
+    {
+     "from": "2015-04-15",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/24/24_texto_integral.pdf",
+     "sha256": "d49598940530d59f8417ba01f65dbcde1bd38628d10147f7c676bdd08c5ecac0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01829",
+   "short": "Lei 1829/2015",
+   "title": "Lei nº 1.829, de 27 de março de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/22",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/22/22_texto_integral.pdf",
+     "sha256": "0e4de6e7200bb2c445913ffe034c0867ecbf11643f35cecfc64bb689e692879b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01828",
+   "short": "Lei 1828/2015",
+   "title": "Lei nº 1.828, de 27 de março de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/16",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 19,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/16/16_texto_integral.pdf",
+     "sha256": "7c8448838ec25e835c5861d4b0d7067bac2989c4ff4f7d27818357224cd185eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01827",
+   "short": "Lei 1827/2015",
+   "title": "Lei nº 1.827, de 27 de março de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/15",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/15/15_texto_integral.pdf",
+     "sha256": "8b0007d31fd4f2e29224c63fb738881771393f747835ebee5905a169949c7a63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01826",
+   "short": "Lei 1826/2015",
+   "title": "Lei nº 1.826, de 27 de março de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/14",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 6,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/14/14_texto_integral.pdf",
+     "sha256": "1225bcdd651e192b95af4055868c6bea916ea570574cb02cc8d369d9c0e3a6d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01824",
+   "short": "Lei 1824/2015",
+   "title": "Lei nº 1.824, de 13 de fevereiro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/11",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 9,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/11/11_texto_integral.pdf",
+     "sha256": "0dbfbcfded2e483ed3fc9d12d70d3b7d40c3937957beef3b8a031b67daa3b4e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01823",
+   "short": "Lei 1823/2015",
+   "title": "Lei nº 1.823, de 5 de fevereiro de 2015",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/8",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2015/8/8_texto_integral.pdf",
+     "sha256": "299b2d5f3aadfd11dd23bc20ee0594d2d862d9c3a2469f9eae216c3fcc937529"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01816",
+   "short": "Lei 1816/2014",
+   "title": "Lei nº 1.816, de 9 de dezembro de 2014",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/2",
+   "versions": [
+    {
+     "from": "2014-12-12",
+     "units": 5,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2014/2/2_texto_integral.pdf",
+     "sha256": "1d6275173cbe5b632ad6a828d8c53b51cef6799f1942f37c1c1578ae17d3645b"
+    }
+   ]
+  }
+ ]
+}

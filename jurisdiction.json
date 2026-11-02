@@ -1,0 +1,9 @@
+{
+  "path": "br-pr-almirante-tamandare",
+  "code": "BR-PR-ALMIRANTE-TAMANDARE",
+  "name": "Almirante Tamandaré (city)",
+  "level": "municipality",
+  "parent": "br-pr",
+  "repo": "https://github.com/lexifina/brazil-almirante-tamandare-city-law",
+  "build": "built: the law of Almirante Tamandaré from the Câmara Municipal's SAPL"
+}
