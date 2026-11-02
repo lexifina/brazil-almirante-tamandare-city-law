@@ -1022,6 +1022,34 @@
      "sha256": "1d6275173cbe5b632ad6a828d8c53b51cef6799f1942f37c1c1578ae17d3645b"
     }
    ]
+  },
+  {
+   "slug": "lei-2014-01770",
+   "short": "Lei 1770/2014",
+   "title": "Lei nº 1.770, de 4 de fevereiro de 2014",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/3",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 3,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2014/3/3_texto_integral.pdf",
+     "sha256": "49ffaba61d4624b11ebda3554c0435152f79dad6eb5935d9bdbd5bb108a971dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01711",
+   "short": "Lei 1711/2013",
+   "title": "Lei nº 1.711, de 12 de julho de 2013",
+   "url": "https://sapl.almirantetamandare.pr.leg.br/norma/84",
+   "versions": [
+    {
+     "from": "2013-07-12",
+     "units": 4,
+     "source_url": "https://sapl.almirantetamandare.pr.leg.br/media/sapl/public/normajuridica/2013/84/84_texto_integral.pdf",
+     "sha256": "fa8ac8b27e632289cdb4dd04939b613bf229a0eec12def3ed0d0226de003a8b1"
+    }
+   ]
   }
  ]
 }
